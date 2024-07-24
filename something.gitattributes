@@ -1,0 +1,4 @@
+*.data binary
+*.wasm binary
+*.js linguist-generated
+*.html linguist-generated
